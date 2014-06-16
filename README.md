@@ -8,18 +8,16 @@ prezentacji.
 
 Daty nadchodzących spotkań
 ========
-2014/08/19: -- wolny termin --
+`2014/08/19`: -- wolny termin --
 
-2014/08/05: -- wolny termin --
+`2014/08/05`: -- wolny termin --
 
-2014/07/22: -- wolny termin --
+`2014/07/22`: -- wolny termin --
 
-2014/07/01: Spotkanie podwójne: 
-`Bartosz Walacik, Paweł Szymczyk - "Javers"`
-`Piotr Betkier - "Spock - Lekkie testy epoki oświecenia"`
+`2014/07/01`: Spotkanie podwójne: Bartosz Walacik, Paweł Szymczyk - "Javers", Piotr Betkier - "Spock - Lekkie testy epoki oświecenia"
 
-2014/06/17: `Andrzej Bobak - "Hibernate Search w praktyce, czyli wyszukiwanie pełnotekstowe w javowej aplikacji"z
+`2014/06/17`: Andrzej Bobak - "Hibernate Search w praktyce, czyli wyszukiwanie pełnotekstowe w javowej aplikacji" 
 
 Przeszłe spotkania
-*2014/06/03: Marek Goldmann - "Docker - intro to a revolution"
+`2014/06/03`: Marek Goldmann - "Docker - intro to a revolution"
 
