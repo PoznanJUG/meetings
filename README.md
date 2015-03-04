@@ -8,7 +8,7 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 ========
-* 10 marca 2015 -- wolny termin
+* 10 marca 2015 -- BigData and Oracle Coherence, Andrew Wilson
 * 24 marca 2015 -- Silnie typowane logi w ElasticSearch Logstash i Kibana, Marcin Bazydlo
 * 14 kwietnia 2015 -- wolny termin
 * 28 kwietnia 2015 -- wolny termin
