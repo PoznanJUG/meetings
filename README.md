@@ -13,5 +13,5 @@ Daty nadchodzących spotkań
 * 13 kwietnia 2015 -- From spaghetti with no src/test to green CI, good coverage and well-sleeping developers, Jacek Kunicki, Michał Matłoka
 * 28 kwietnia 2015 -- Gradle - Software delivery automation tool that makes the impossible possible, the possible easy and the easy elegant. Marcin Erdman
 * 5 maja 2015 -- Elasticsearch in Production, lessons learned from deploying and managing 2 billion document search engine in Egnyte 
-* 9 czerwca 2015 -- wolny termin
-* 23 czerwca 2015 -- Vaadin + Akka + Slick with Scala - Reactive RIA (rich internet application), Lukasz Byczynski 
+* 9 czerwca 2015 -- Reactive RIA with Vaadin and Scala stack, Lukasz Byczynski 
+* 23 czerwca 2015 -- wolny termin
