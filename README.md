@@ -14,7 +14,9 @@ Daty nadchodzących spotkań
 * 10 listopada 2015 -- wolny termin
 * 20 października 2015 -- wolny termin
 * 15 października 2015 -- JUGtoberfest, wolne sloty prezentacyjne (czas 30min)
-* wakacje 2015
+
+Przeszłe spotkania
+=========
 * 9 czerwca 2015 -- Reactive RIA with Vaadin and Scala stack, Lukasz Byczynski 
 * 5 maja 2015 -- Elasticsearch in Production, lessons learned from deploying and managing 2 billion document search engine in Egnyte, Igor Kupczyński
 * 28 kwietnia 2015 -- Gradle - Software delivery automation tool that makes the impossible possible, the possible easy and the easy elegant. Marcin Erdman
