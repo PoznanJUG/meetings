@@ -7,11 +7,16 @@ jesteś zainteresowany wystąpieniem na forum Poznań JUG daj nam znać! Wystarc
 requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
-========
-* 10 marca 2015 -- BigData and Oracle Coherence, Andrew Wilson
-* 24 marca 2015 -- Silnie typowane logi w ElasticSearch Logstash i Kibana, Marcin Bazydlo
-* 13 kwietnia 2015 -- From spaghetti with no src/test to green CI, good coverage and well-sleeping developers, Jacek Kunicki, Michał Matłoka
-* 28 kwietnia 2015 -- Gradle - Software delivery automation tool that makes the impossible possible, the possible easy and the easy elegant. Marcin Erdman
+======== 
+* 15 grudzień 2015 -- wolny termin
+* 8 grudzień 2015 -- wolny termin
+* 24 listopada 2015 -- wolny termin
+* 10 listopada 2015 -- wolny termin
+* 20 października 2015 -- wolny termin
+* 15 października 2015 -- JUGtoberfest, wolne sloty prezentacyjne (czas 30min)
+* wakacje 2015
 * 5 maja 2015 -- Train and Destroy, theory and practice of performance tests, Adam Dudczak
-* 9 czerwca 2015 -- wolny termin
-* 23 czerwca 2015 -- wolny termin
+* 28 kwietnia 2015 -- Gradle - Software delivery automation tool that makes the impossible possible, the possible easy and the easy elegant. Marcin Erdman
+* 13 kwietnia 2015 -- From spaghetti with no src/test to green CI, good coverage and well-sleeping developers, Jacek Kunicki, Michał Matłoka
+* 24 marca 2015 -- Silnie typowane logi w ElasticSearch Logstash i Kibana, Marcin Bazydlo
+* 10 marca 2015 -- BigData and Oracle Coherence, Andrew Wilson
