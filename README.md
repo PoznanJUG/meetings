@@ -9,7 +9,7 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 Daty nadchodzących spotkań
 ========
 * 26 stycznia 2015 -- wolny termin
-* 12 stycznia 2015 -- wolny termin
+* 12 stycznia 2015 -- Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści w trakcie rekrutacji, [Tomek Dziurko](http://tomaszdziurko.pl)
 * 15 grudzień 2015 -- wolny termin
 * 8 grudzień 2015 -- wolny termin
 * 24 listopada 2015 -- wolny termin
