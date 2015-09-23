@@ -8,6 +8,8 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 ========
+* 26 stycznia 2015 -- wolny termin
+* 12 stycznia 2015 -- wolny termin
 * 15 grudzień 2015 -- wolny termin
 * 8 grudzień 2015 -- wolny termin
 * 24 listopada 2015 -- wolny termin
