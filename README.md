@@ -13,7 +13,7 @@ Daty nadchodzących spotkań
 * 15 grudzień 2015 -- wolny termin
 * 8 grudzień 2015 -- wolny termin
 * 24 listopada 2015 -- wolny termin
-* 10 listopada 2015 -- wolny termin
+* 10 listopada 2015 -- "Consumer Driven Contracts i TiP", Ernest Bursa + Adam Dudczak
 * 20 października 2015 -- wolny termin
 * 15 października 2015 -- JUGtoberfest, wolne sloty prezentacyjne (czas 30min)
 
