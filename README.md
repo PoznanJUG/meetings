@@ -10,8 +10,8 @@ Daty nadchodzących spotkań
 ========
 * 26 stycznia 2016 -- wolny termin
 * 12 stycznia 2016 -- Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści w trakcie rekrutacji, [Tomek Dziurko](http://tomaszdziurko.pl)
-* 15 grudzień 2015 -- What's new in WildFly? [Tomasz Adamski] (mailto:tadamski@redhat.com)
-* 8 grudzień 2015 -- wolny termin
+* 15 grudnia 2015 -- What's new in WildFly? [Tomasz Adamski] (mailto:tadamski@redhat.com)
+* 8 grudnia 2015 -- wolny termin
 * 24 listopada 2015 -- wolny termin
 * 10 listopada 2015 -- "Consumer Driven Contracts i TiP", Ernest Bursa + Adam Dudczak
 * 20 października 2015 -- wolny termin
