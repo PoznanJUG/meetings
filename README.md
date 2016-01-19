@@ -8,7 +8,7 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 ========
-* 9 lutego 2016 -- Przetwarzanie języka naturalnego w Javie?, Justyna Walkowska
+* ?? ????? 2016 -- Java kontra NLP, Justyna Walkowska
 * 12 stycznia 2016 -- Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści w trakcie rekrutacji, [Tomek Dziurko](http://tomaszdziurko.pl)
 * 15 grudnia 2015 -- What's new in WildFly? [Tomasz Adamski] (mailto:tadamski@redhat.com)
 * 8 grudnia 2015 -- wolny termin
