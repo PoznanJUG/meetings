@@ -10,7 +10,7 @@ Daty nadchodzących spotkań
 ========
 * 26 kwietnia -- wolny termin
 * 10 maja -- wolny termin
-* 24 maja -- wolny termin
+* 24 maja -- Say hello to the SBT [Lukasz Byczynski] (mailto:mail@lukaszbyczynski.com)
 * 7 czerwca -- wolny termin
 * 21 czerwca -- wolny termin
 
