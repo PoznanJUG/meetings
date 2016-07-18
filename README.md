@@ -8,11 +8,11 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 ========
-* 26 kwietnia -- wolny termin
-* 10 maja -- wolny termin
-* 24 maja -- wolny termin
-* 7 czerwca -- wolny termin
-* 21 czerwca -- wolny termin
+* 2 sierpnia -- wolny termin
+* 16 sierpnia -- wolny termin
+* 30 sierpnia -- wolny termin
+* 13 września -- wolny termin
+* 27 września -- Docker in Java development [Krystian Nowak] (mailto:krystian.nowak@gmail.com)
 
 Przeszłe spotkania
 =========
