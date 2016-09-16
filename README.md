@@ -18,6 +18,8 @@ Daty nadchodzących spotkań
 
 Przeszłe spotkania
 =========
+* 9 czerwca 2016 -- Eclipse Democamp 2016
+* 2 luty 2016 -- Co było pierwsze kod czy architektura? Sławek Sobótka
 * 12 stycznia 2016 -- Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści w trakcie rekrutacji, [Tomek Dziurko](http://tomaszdziurko.pl)
 * 15 grudnia 2015 -- What's new in WildFly? [Tomasz Adamski] (mailto:tadamski@redhat.com)
 * 15 października 2015 -- JUGtoberfest
