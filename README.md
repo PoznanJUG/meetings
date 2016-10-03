@@ -7,13 +7,12 @@ jesteś zainteresowany wystąpieniem na forum Poznań JUG daj nam znać! Wystarc
 requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
-========
-* 3 października -- wolny termin
-* 13 października -- JUGtoberfest
-* 19 października -- Adam Bien
-* 24 października -- wolny termin
-* 8 listopad -- wolny termin
-* 22 listopad -- wolny termin
+* 13 października -- JUGtoberFest 2016
+* 19 października -- Adam Bien - Microservices in 2016 — What Worked Well (this time completely without slides)
+* 22 października -- Global Day of Code Retreat
+* 1 listopada -- wolny termin
+* 15 listopada -- wolny termin
+* 29 listopada -- wolny termin
 * 13 grudnia -- wolny termin
 
 Przeszłe spotkania
