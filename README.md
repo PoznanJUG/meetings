@@ -12,7 +12,7 @@ Daty nadchodzących spotkań
 * 22 października -- Global Day of Code Retreat
 * 1 listopada -- wolny termin
 * 15 listopada -- wolny termin
-* 29 listopada -- wolny termin
+* 29 listopada -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
 * 13 grudnia -- wolny termin
 
 Przeszłe spotkania
