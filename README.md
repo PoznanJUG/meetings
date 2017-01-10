@@ -7,16 +7,23 @@ jesteś zainteresowany wystąpieniem na forum Poznań JUG daj nam znać! Wystarc
 requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
-* 13 października -- JUGtoberFest 2016
-* 19 października -- Adam Bien - Microservices in 2016 — What Worked Well (this time completely without slides)
-* 22 października -- Global Day of Code Retreat
-* 1 listopada -- wolny termin
-* 15 listopada -- wolny termin
-* 29 listopada -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
-* 13 grudnia -- wolny termin
+
+* 19 stycznia -- Dirk Lemmermann - JavaFx
+* 31 stycznia -- wolny termin
+* 14 luty -- wolny termin
+* 28 luty -- wolny termin
+* 14 marca -- wolny termin
+* 28 marca -- wolny termin
+* 11 kwietnia -- wolny termin
+* 25 kwietnia -- wolny termin
 
 Przeszłe spotkania
 =========
+* 13 grudnia 2016 - Flashki#1
+* 29 listopada 2016 -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
+* 22 października 2016 -- Global Day of Code Retreat
+* 19 października 2016 -- Adam Bien - Microservices in 2016 — What Worked Well (this time completely without slides)
+* 13 października 2016 -- JUGtoberFest 2016
 * 9 czerwca 2016 -- Eclipse Democamp 2016
 * 2 luty 2016 -- Co było pierwsze kod czy architektura? Sławek Sobótka
 * 12 stycznia 2016 -- Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści w trakcie rekrutacji, [Tomek Dziurko](http://tomaszdziurko.pl)
