@@ -9,7 +9,7 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 Daty nadchodzących spotkań
 
 * 19 stycznia -- Dirk Lemmermann - JavaFx
-* 31 stycznia -- wolny termin
+* 31 stycznia -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
 * 14 luty -- wolny termin
 * 28 luty -- wolny termin
 * 14 marca -- wolny termin
