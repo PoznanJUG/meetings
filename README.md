@@ -7,18 +7,14 @@ jesteś zainteresowany wystąpieniem na forum Poznań JUG daj nam znać! Wystarc
 requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
+=========
+* 3 października -- Adam Dymek - Java 10 & beyooond, co niesie przyszłość?
 
-* 19 stycznia -- Dirk Lemmermann - JavaFx
-* 31 stycznia -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
-* 14 luty -- wolny termin
-* 28 luty -- wolny termin
-* 14 marca -- wolny termin
-* 28 marca -- wolny termin
-* 11 kwietnia -- wolny termin
-* 25 kwietnia -- wolny termin
 
 Przeszłe spotkania
 =========
+* 31 stycznia 2017 -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
+* 19 stycznia 2017 -- Dirk Lemmermann - JavaFx
 * 13 grudnia 2016 - Flashki#1
 * 29 listopada 2016 -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
 * 22 października 2016 -- Global Day of Code Retreat
