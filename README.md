@@ -17,9 +17,10 @@ Daty nadchodzących spotkań
 
 Przeszłe spotkania
 =========
-* 31 stycznia -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
-* 19 stycznia 2016 - Dirk Lemmermann - JavaFx
-* 13 grudnia 2016 - Flashki#1
+* 25 kwietnia 2017 -- Szymon Stępniak - Freelancing praktycznie - 10 rzeczy, o których warto wiedzieć
+* 31 stycznia 2017 -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
+* 19 stycznia 2017 -- Dirk Lemmermann - JavaFx
+* 13 grudnia 2016 -- Flashki#1
 * 29 listopada 2016 -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
 * 22 października 2016 -- Global Day of Code Retreat
 * 19 października 2016 -- Adam Bien - Microservices in 2016 — What Worked Well (this time completely without slides)
