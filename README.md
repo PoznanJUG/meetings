@@ -8,17 +8,18 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 
-* 19 stycznia -- Dirk Lemmermann - JavaFx
-* 31 stycznia -- wolny termin
-* 14 luty -- wolny termin
-* 28 luty -- wolny termin
-* 14 marca -- wolny termin
-* 28 marca -- wolny termin
-* 11 kwietnia -- wolny termin
-* 25 kwietnia -- wolny termin
+
+* 12 października - JUGtoberFest 2017
+* 24 października - wolny termin
+* 14 listopada - termin zarezerwowany
+* 18 listopada - Global Day of Code Retreat 2017
+* 30 listopada - termin zarezerwowany
+* 12 grudnia - wolny termin
+
 
 Przeszłe spotkania
 =========
+* 19 stycznia 2016 - Dirk Lemmermann - JavaFx
 * 13 grudnia 2016 - Flashki#1
 * 29 listopada 2016 -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
 * 22 października 2016 -- Global Day of Code Retreat
