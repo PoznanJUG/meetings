@@ -9,8 +9,7 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 Daty nadchodzących spotkań
 
 * 12 października - JUGtoberFest 2017
-* 24 października - wolny termin
-* 14 listopada - termin zarezerwowany
+* 7 listopada - Mateusz Biel - Lazy Evaluation
 * 18 listopada - Global Day of Code Retreat 2017
 * 30 listopada - termin zarezerwowany
 * 12 grudnia - wolny termin
