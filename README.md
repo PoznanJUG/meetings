@@ -8,16 +8,15 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 
-
 * 12 października - JUGtoberFest 2017
 * 7 listopada - Mateusz Biel - Lazy Evaluation
 * 18 listopada - Global Day of Code Retreat 2017
 * 30 listopada - termin zarezerwowany
 * 12 grudnia - wolny termin
 
-
 Przeszłe spotkania
 =========
+* 31 stycznia -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
 * 19 stycznia 2016 - Dirk Lemmermann - JavaFx
 * 13 grudnia 2016 - Flashki#1
 * 29 listopada 2016 -- Marcin Bazydło - Breaking Bonds. How Intrapreneurship is Encouraged with Practices and Technology
