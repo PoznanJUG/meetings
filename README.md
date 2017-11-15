@@ -12,7 +12,7 @@ Daty nadchodzących spotkań
 * 7 listopada - Mateusz Biel - Lazy Evaluation
 * 18 listopada - Global Day of Code Retreat 2017
 * 30 listopada - termin zarezerwowany
-* 12 grudnia - wolny termin
+* 12 grudnia - Michał Kosmulski - Wejście w chmurę: perspektywa programisty
 
 Przeszłe spotkania
 =========
