@@ -8,14 +8,23 @@ requesta ;-) zostanie Wam już tylko przygotowanie prezentacji.
 
 Daty nadchodzących spotkań
 
-* 12 października - JUGtoberFest 2017
-* 7 listopada - Mateusz Biel - Lazy Evaluation
-* 18 listopada - Global Day of Code Retreat 2017
-* 30 listopada - termin zarezerwowany
-* 12 grudnia - Michał Kosmulski - Wejście w chmurę: perspektywa programisty
+* 15 listopada 2018 - code_talks
+* 17 listopada 2018 - Poznań Global Day of Code Retreat 2018
+* 22 listopada 2018 - termin zarezerwowany
 
 Przeszłe spotkania
 =========
+
+* 23 października 2018 - JUGtoberFest 2018
+* 4 lipca 2018 - Jakub Gardo: GC, czyli jak JVM kolekcjonuje śmieci
+* 26 czerwca 2018 - code_talks - Kodowanie znaków to spisek / Rekurencyjna sieć neuronowa / Graal
+* 16 maja 2018 - JUGacademy 2.0 #1
+* 15 maja 2018 - Przemek Grzędzielski: Java Memory Model - back to basics
+* 26 kwietnia 2018 - Jacek Laskowski-Optimizing Spark SQL/Krzysztof Skitek: Kubernetes-pierwsze kroki
+* 12 grudnia 2017 - Michał Kosmulski - Wejście w chmurę: perspektywa programisty
+* 18 listopada 2017 - Global Day of Code Retreat 2017
+* 7 listopada 2017 - Mateusz Biel - Lazy Evaluation
+* 12 października 2017 - JUGtoberFest 2017
 * 25 kwietnia 2017 -- Szymon Stępniak - Freelancing praktycznie - 10 rzeczy, o których warto wiedzieć
 * 31 stycznia 2017 -- Sławomir Michalik - Weryfikacja wydajności kodu w środowisku docelowym vs wykrywanie mikroregresji na etapie unit testów lub CI.
 * 19 stycznia 2017 -- Dirk Lemmermann - JavaFx
