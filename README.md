@@ -11,6 +11,7 @@ Daty nadchodzących spotkań
 * 15 listopada 2018 - code_talks
 * 17 listopada 2018 - Poznań Global Day of Code Retreat 2018
 * 22 listopada 2018 - termin zarezerwowany
+* 26 marca 2020 - How to create a startup
 
 Przeszłe spotkania
 =========
